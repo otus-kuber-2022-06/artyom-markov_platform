@@ -1,0 +1,6 @@
+dependencies:
+- name: froentend
+  repository: file://../frontend/
+  version: 0.1.0
+digest: sha256:6ca51ecfb61c55ce9753e91bc7ee784038820706e81c2dbfe686aa2b1d51c358
+generated: "2022-08-01T13:41:22.882420738Z"
