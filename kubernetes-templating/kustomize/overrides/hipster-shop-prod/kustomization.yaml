@@ -1,0 +1,10 @@
+resources:
+  - ../../base
+  - namespace.yaml
+namePrefix: prod-
+namespace: hipster-shop-prod
+commonLabels:
+  environment: prod
+patches:
+  - replica_count.yaml
+

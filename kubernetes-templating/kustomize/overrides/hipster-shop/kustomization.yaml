@@ -1,0 +1,8 @@
+resources:
+  - ../../base
+namePrefix: dev-
+namespace: hipster-shop
+commonLabels:
+  environment: dev
+patches:
+  - replica_count.yaml
